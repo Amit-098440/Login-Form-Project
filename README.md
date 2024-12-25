@@ -14,7 +14,7 @@
 #### The form is designed to be responsive, ensuring it works well on both desktop and mobile devices.
 #### A clean and modern layout is achieved using CSS, with the form being centered on the page and styled with colors, fonts, and borders for an attractive appearance.
 
-##Form Validation (JavaScript):
+## Form Validation (JavaScript):
 
 #### JavaScript is used to validate user inputs, ensuring that both the username/email and password fields are not left empty.
 #### Password strength can be checked (e.g., ensuring it meets a minimum length requirement).
@@ -23,9 +23,9 @@
 
 ## Technologies Used:
 
-### HTML5: Used to create the structure and layout of the login form.
-### CSS3: Used for styling and responsiveness.
-### JavaScript: Used to implement form validation and interactivity.
+#### HTML5: Used to create the structure and layout of the login form.
+#### CSS3: Used for styling and responsiveness.
+#### JavaScript: Used to implement form validation and interactivity.
 
 ## Project Goals:
 
